@@ -1,4 +1,5 @@
-## Do Tweets Move Markets? DS 4002 CS2 Case Study
+## Do Tweets Move Markets? 
+#### DS 4002 CS2 Case Study
 <img width="267" height="219" alt="Screenshot 2026-04-29 at 2 30 34 PM" src="https://github.com/user-attachments/assets/e4b9d4da-134e-46ee-8180-fea6c4046e1d" />
 
 ### Map of Documentation

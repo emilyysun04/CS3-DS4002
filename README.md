@@ -4,8 +4,10 @@
 ### Map of Documentation and Reproducibility
 Folder: DATA
 - readdonaldtrump-truth-social-20221101-present.tsv.zip
+
 Folder: SCRIPTS
 - Data Visualizations.ipynb
+
 Folder: SUPPLEMENTARY
 - News article: Donald Trump's tweets are now presidential records
 - Research article: Impact of Trump's tweets on European stock market

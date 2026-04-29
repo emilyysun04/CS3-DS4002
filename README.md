@@ -13,8 +13,11 @@ Folder: SUPPLEMENTARY
 - Research article: Impact of Trump's tweets on European stock market
   
 Hook.pdf
+
 Rubric.pdf
+
 LICENSE
+
 README.md
 
 ### Steps for Reproducibility
